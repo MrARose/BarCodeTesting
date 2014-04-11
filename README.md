@@ -1,6 +1,6 @@
-# angular-seed — the seed for AngularJS apps
+# BarCodeTesting using the angular-seed
 
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
+This project is a test application using the skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
 projects.
 
